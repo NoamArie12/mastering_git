@@ -4,6 +4,6 @@ function printLog(){
   console.log('Hello, Git!');
 }
 
-if printState {
+if (printState) {
   printLog()
 }
